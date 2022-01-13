@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "ddns-external-ip",
+  "version": "1.0.0",
+  "description": "Return the caller's external IP address",
+  "main": "index.js",
+  "author": "Michael Goldberger <mike.goldberger@gmail.com>",
+  "license": "MIT"
+}

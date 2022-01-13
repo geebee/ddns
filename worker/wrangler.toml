@@ -1,0 +1,8 @@
+# Specify account_id from the environment via CF_ACCOUNT_ID
+# account_id = ""
+
+name = "ddns-external-ip"
+type = "javascript"
+
+compatibility_date = "2022-01-13"
+workers_dev = true
